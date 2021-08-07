@@ -1,0 +1,11 @@
+﻿  RT.cpp
+D:\c++\RT\RT.cpp(121,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\c++\RT\RT.cpp(130,30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\c++\RT\RT.cpp(183,51): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\c++\RT\RT.cpp(205,40): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\c++\RT\RT.cpp(208,22): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+D:\c++\RT\RT.cpp(221,44): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\c++\RT\RT.cpp(226,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\c++\RT\RT.cpp(342,16): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\c++\RT\RT.cpp(392,32): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  RT.vcxproj -> D:\c++\RT\Debug\RT.exe
